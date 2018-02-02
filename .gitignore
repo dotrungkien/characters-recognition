@@ -1,5 +1,4 @@
-input/
-data/
+*.tgz
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
